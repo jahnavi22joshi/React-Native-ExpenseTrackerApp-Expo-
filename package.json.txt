@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "react-native-paper": "4.9.2",
+    "@expo/vector-icons": "^14.1.0",
+    "expo-status-bar": "~2.2.3",
+    "react-native-chart-kit": "*",
+    "react-native-svg": "15.11.2",
+    "@react-native-picker/picker": "2.11.1"
+  }
+}
