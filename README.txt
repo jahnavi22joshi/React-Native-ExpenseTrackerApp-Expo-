@@ -1,5 +1,5 @@
 I have created this application using Expo
-So here is the steps for implemetation
+So here is the steps for implemetation in Expo Snake - https://snack.expo.dev/
 
 Step-1: Add dependencies to package.json
 
